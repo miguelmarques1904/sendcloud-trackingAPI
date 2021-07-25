@@ -1,2 +1,2 @@
 # sendcloud-trackingAPI
-Trial day assignment for sendcloud
+Trial day assignment @ SendCloud
