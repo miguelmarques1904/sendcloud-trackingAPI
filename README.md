@@ -23,19 +23,19 @@ cd api
 unzip parcel_data.zip
 ```
 
-## Running/Testing the API
+## Running/Testing the API:
 1a. Run API (inside the /api folder):
 
 ```
 flask run
 ```
 
-1b. Test API with pytest: (inside the /tests folder)
+1b. Test API with pytest (inside the /tests folder):
 ```
 pytest
 ```
 
 ## Additional Utils:
-In the /utils directory two files are provided:
+In the /utils folder two files are provided:
 1. regexTester.py: Tests coverage of tracking numbers defined in the .csv file against the API's regex list.
 2. requests.py: Requires API running (see above). Creates multiple requests from provided tickets and outputs response information.
